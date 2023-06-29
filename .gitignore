@@ -1,0 +1,13 @@
+# Ignore .idea/ directory
+.idea/
+
+# Ignore Visual Studio files
+*.sln
+*.sln.DotSettings.user
+
+# Ignore build artifacts
+bin/
+obj/
+
+# Ignore NuGet packages
+packages/
